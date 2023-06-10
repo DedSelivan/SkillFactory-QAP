@@ -1,0 +1,19 @@
+ПРАКТИКА 10.6.1
+
+Задание: 
+
+1. Внимательно прочитайте требования Заказчика и комментарии к нему.
+2. Создайте Google Документ по рекомендованному шаблону. Заполните документ артефактами тестирования в соответствии с требованиями:
+    - Чек-лист
+    - Тест-кейсы
+    - Список багов
+
+
+
+Ответ:
+
+Рекомендованный шаблон: https://docs.google.com/spreadsheets/d/1pnhfoZr1XgQW1OikDns9an3LZ1f_a8EK_0MSNFWZmiE/edit?usp=sharing
+
+Документация: https://docs.google.com/document/d/1AsSYhQ7B5Xo7T011v2olVtEqPCS2wdxg/edit?usp=sharing&ouid=106370967388980722920&rtpof=true&sd=true
+
+Чек-лист, Тест-кейсы, список багов: https://docs.google.com/spreadsheets/d/1VGwNohjnSKM_AQ0ePmaqnBFuOsCgi4uwthENT8p_OGs/edit?usp=sharing

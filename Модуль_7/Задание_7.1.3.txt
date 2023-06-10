@@ -1,0 +1,40 @@
+Задание 7.1.3
+
+Воспроизведите все шаги, чтобы получить информацию во вкладке Network при обращении к приложению «Дом питомца».
+
+Посмотрите на список запросов во вкладке Network.
+
+Самостоятельно найдите запросы, которые получают файлы.
+
+
+
+Мой ответ:
+
+Изображение(
+    http://158.160.56.133/static/images/instagram_icon.png?14d5121a3aac275e121546aa97d7f8da
+
+    http://158.160.56.133/static/images/tik-tok_icon.png?94d5d373c93312a0fef76fd6f620498e
+
+    http://158.160.56.133/static/images/youtube_icon.png?bb602a427cb2da3587543d872c4ed0b0
+
+    http://158.160.56.133/static/images/telegram_icon.png?15efc07b2fb982bdda09db238de579f3
+
+    http://158.160.56.133/media/img/grovcharka1.jpeg
+
+    http://158.160.56.133/media/img/baron.jpeg
+
+    http://158.160.56.133/media/img/gosha.jpeg
+
+    http://158.160.56.133/media/img/sam.jpeg
+
+    http://158.160.56.133/static/img/favicon.ico
+
+)
+
+Каскадные стили (
+    chrome-extension://pldlfgnilfdheajekfphjkjeooignhkc/css/general.css
+
+    chrome-extension://gbefmodhlophhakmoecijeppjblibmie/common.css
+
+    chrome-extension://gbefmodhlophhakmoecijeppjblibmie/contentscript.css
+)
